@@ -1,6 +1,5 @@
 <?php
 
-// config for Williamug/Permitted
 return [
-
+    // 'permission' => Permitted::class,
 ];
